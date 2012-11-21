@@ -1,0 +1,8 @@
+{
+  "name": "fxap-ff",
+  "fullName": "fxap-ff",
+  "description": "Client side of Firefox Account prototype (FF addon)",
+  "author": "Brian Warner <warner@mozilla.com>",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
